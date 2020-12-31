@@ -1,7 +1,7 @@
 # Greetings World!:earth_americas: I'm Joshua :wave::grin:
 
 ### **Super Important Motto:**
-Keep learning with an open mind! till u die :3
+Keep learning with an open mind! ...till u die:nerd_face:
 
 ---
 
@@ -11,6 +11,7 @@ Keep learning with an open mind! till u die :3
 - 🌱 Currently learning the applications of Deep Learning through online [courses](https://www.coursera.org/instructor/andrewng) from the master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
+- ⚡ Fun fact my fave emoji -> :3
 
 ---
 
