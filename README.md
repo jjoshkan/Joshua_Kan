@@ -8,6 +8,6 @@
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
 
-[![image](file:///C:/Users/Joshua%20Kan/Downloads/iconmonstr-linkedin-3.svg)](https://www.linkedin.com/in/joshkan/)
+[![image](https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png)](https://www.linkedin.com/in/joshkan/)
 
 
