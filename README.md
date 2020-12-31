@@ -1,7 +1,7 @@
 # Greetings World!:earth_americas: I'm Joshua :wave::grin:
 
-### **Super duper simplified motto:**
-Keep Learning!!
+### **Super Important Motto:**
+Keep learning with an open mind! till u die :3
 
 ---
 
