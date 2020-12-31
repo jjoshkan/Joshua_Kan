@@ -17,11 +17,11 @@ If you stop learning, you'll stop living :nerd_face:
 ---
 
 ### **Get in Touch :smirk::handshake::partying_face::**
-[<img align="left" alt="codeSTACKr | LinkedIn" width="33px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/joshkan/)
-[<img align="left" alt="codeSTACKr | Instagram" width="33px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />](https://www.instagram.com/joshuakan_/)
-[<img align="left" alt="codeSTACKr | Medium" width="33px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg" />](https://medium.com/@joshuakan_)
-[<img align="left" alt="codeSTACKr | Kaggle" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](https://www.kaggle.com/joshuakan)
-[<img align="left" alt="codeSTACKr | Discord" width="33px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />](watanbub#8935)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="29px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/joshkan/)
+[<img align="left" alt="codeSTACKr | Instagram" width="29px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />](https://www.instagram.com/joshuakan_/)
+[<img align="left" alt="codeSTACKr | Medium" width="29px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg" />](https://medium.com/@joshuakan_)
+[<img align="left" alt="codeSTACKr | Kaggle" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](https://www.kaggle.com/joshuakan)
+[<img align="left" alt="codeSTACKr | Discord" width="29px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />](watanbub#8935)
 
 <br/>
 
