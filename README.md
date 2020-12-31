@@ -1,17 +1,10 @@
 <h1 align="center">Greetings World!:earth_americas: I'm Joshua :wave::grin:</h1>
 
-<h2 align="center'>
-           Aspiring Data Scientist
-</h2>
-
 ### **Super Important Motto:**
 Keep learning with an open mind! ...till u die:nerd_face:
 
----
-
 ### **What I do on daily basis :thinking::**
-
-- :computer: Currently working on  _Wesley Project_ under [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
+- :computer: Currently working on  **_Wesley Project_** under [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 Currently learning the applications of Deep Learning through online [courses](https://www.coursera.org/instructor/andrewng) from the master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
