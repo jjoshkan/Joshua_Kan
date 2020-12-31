@@ -1,7 +1,7 @@
 <h1 align="center">Greetings World!:earth_americas: I'm Joshua :wave::grin:</h1>
 
 <h3 align="center'>Aspiring Data Scientist</h3>
-           
+
 ### **Super Important Motto:**
 Keep learning with an open mind! ...till u die:nerd_face:
 
