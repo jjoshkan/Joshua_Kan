@@ -2,8 +2,10 @@
 
 <h3 align="center">A hard working Data Scientist :man_technologist:</h3>
 
-### **Motto:**
+### **Favorite Quote/Motto:**
 If you stop learning, you'll stop living :nerd_face:
+
+---
 
 ### **What I do on daily basis :thinking::**
 - :computer: Currently working on  **_Wesley Project_** for [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
