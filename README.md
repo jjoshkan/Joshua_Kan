@@ -11,4 +11,4 @@
 ---
 
 ### **Get in touch:handshake:	:**
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][website]
