@@ -1,11 +1,11 @@
 <h1 align="center">Greetings World!:earth_americas: I'm Joshua :wave::grin:</h1>
 
-<h3 align="center">A hard working Data Scientist: discover business opportunities through data. :man_technologist:</h3>
+<h3 align="center">A hard working Data Scientist: Discovering business opportunities with data. :man_technologist:</h3>
 
 ---
 
 ### Favorite Quote/Motto:
-If you stop learning, you'll stop living :nerd_face:
+If you stop learning, you'll stop living! :nerd_face:
 
 ---
 
