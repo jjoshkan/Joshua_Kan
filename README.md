@@ -8,3 +8,4 @@
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
 
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
