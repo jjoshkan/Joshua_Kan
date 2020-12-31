@@ -2,15 +2,15 @@
 
 <h3 align="center">A hard working Data Scientist :man_technologist:</h3>
 
-### **Super Important Motto:**
-Keep learning with an open mind! ...till u die:nerd_face:
+### **Motto:**
+If you stop learning, you'll stop living :nerd_face:
 
 ### **What I do on daily basis :thinking::**
 - :computer: Currently working on  **_Wesley Project_** under [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 Currently learning the applications of Deep Learning through online [courses](https://www.coursera.org/instructor/andrewng) from the master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
-- ⚡ Fun fact my fave emoji -> :3
+- ⚡ Fun fact my fave emoji -> :3 (past facebook emoticon)
 
 ---
 
