@@ -1,6 +1,6 @@
 # Greetings World!:earth_americas: I'm Joshua :wave::grin:
 
-**Personal things:**
+**What I do :thinking::**
 
 - :computer: Currently working on  _Wesley Project_ under [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 I’m currently learning ...
