@@ -11,6 +11,6 @@
 ---
 
 ### **Get in touch:handshake:	:**
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />]
+<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />]
