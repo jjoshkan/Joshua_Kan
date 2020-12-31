@@ -1,4 +1,4 @@
-<h1> Greetings World!:earth_americas: I'm Joshua :wave::grin: </h1>
+# Greetings World!:earth_americas: I'm Joshua :wave::grin:
 
 ### **Super Important Motto:**
 Keep learning with an open mind! ...till u die:nerd_face:
