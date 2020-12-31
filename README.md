@@ -1,5 +1,10 @@
 # Greetings World!:earth_americas: I'm Joshua :wave::grin:
 
+### **Super duper simplified motto:**
+Keep Learning!!
+
+---
+
 ### **What I do on daily basis :thinking::**
 
 - :computer: Currently working on  _Wesley Project_ under [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
