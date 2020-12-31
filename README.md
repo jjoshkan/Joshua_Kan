@@ -8,6 +8,7 @@
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
 
-[![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.linkedin.com/in/joshkan/)
+[![image](https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+How)](https://www.linkedin.com/in/joshkan/)
 
 
