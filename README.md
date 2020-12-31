@@ -1,4 +1,4 @@
-# Greetings World!:earth_americas: I'm Joshua :wave::grin:
+# <center> Greetings World!:earth_americas: I'm Joshua :wave::grin: </center>
 
 ### **Super Important Motto:**
 Keep learning with an open mind! ...till u die:nerd_face:
