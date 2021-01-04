@@ -1,6 +1,6 @@
 <h1 align="center">Greetings World!:earth_americas: I'm Joshua :wave::grin:</h1>
 
-<h3 align="center">A hard working Data Scientist: Discovering business opportunities with data. :man_technologist:</h3>
+<h3 align="center">A Data Scientist: Discovering business opportunities with data. :man_technologist:</h3>
 
 ---
 
