@@ -10,7 +10,7 @@ If you stop learning, you'll stop living! :nerd_face:
 ---
 
 ### What I Do on Daily Basis :thinking::
-- Business Data Analyst @avalara
+- :man_office_worker: Business Data Analyst @avalara
 - :computer: Currently working on  **_Wesley Project_** for [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 Currently grinding knowledge of Deep Learning applications through online [courses](https://www.coursera.org/instructor/andrewng) from THE master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
@@ -24,7 +24,7 @@ If you stop learning, you'll stop living! :nerd_face:
 [<img align="left" alt="codeSTACKr | Instagram" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png" />](https://www.instagram.com/joshuakan_/)
 [<img align="left" alt="codeSTACKr | Medium" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/180px-Medium_logo_Monogram.svg.png" />](https://medium.com/@joshuakan_)
 [<img align="left" alt="codeSTACKr | Kaggle" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](https://www.kaggle.com/joshuakan)
-[<img align="left" alt="codeSTACKr | Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discord-New-Logo.png/320px-Discord-New-Logo.png" />](https://discord.gg/AM9kZDSaTj)
+<!-- [<img align="left" alt="codeSTACKr | Discord" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discord-New-Logo.png/320px-Discord-New-Logo.png" />](https://discord.gg/AM9kZDSaTj) -->
 
 <br/>
 
