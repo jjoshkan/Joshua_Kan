@@ -10,7 +10,7 @@ If you stop learning, you'll stop living! :nerd_face:
 ---
 
 ### What I Do on Daily Basis :thinking::
-- :man_office_worker: Business Data Analyst @avalara
+- :man_office_worker: Marketing Data Analyst @avalara
 - :computer: Currently working on  **_Wesley Project_** for [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 Currently grinding knowledge of Deep Learning applications through online [courses](https://www.coursera.org/instructor/andrewng) from THE master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
