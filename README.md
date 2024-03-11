@@ -1,4 +1,4 @@
-<h1 align="center">Greetings World!:earth_americas: my name's Josh :wave::grin:</h1>
+<h1 align="center">Greetings World! :earth_americas: my name's Josh :wave::grin:</h1>
 
 <h3 align="center">A Data Scientist: Discovering business opportunities with data. :man_technologist:</h3>
 
