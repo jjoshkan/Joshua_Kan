@@ -35,5 +35,4 @@ If you stop learning, you'll stop living! :nerd_face:
 <code><img height="27" src="https://www.r-project.org/Rlogo.png"></code>
 <code><img height="27" src="https://img.favpng.com/2/3/9/mysql-logo-database-microsoft-sql-server-png-favpng-8BiL0NVk5zh0ViJa9xDnMbMB5.jpg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="27" src="https://www.mathworks.com/content/mathworks/www/en/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.full.high.gif/1469941373397.gif"></code>
 
