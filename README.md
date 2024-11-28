@@ -4,19 +4,19 @@
 
 ---
 
-### Favorite Quote/Motto:
-If you stop learning, you'll stop living! :nerd_face:
+### Life Principle:
+Always Learning, Always Growing :nerd_face:
 
 ---
 
-### What I Do on Daily Basis :thinking::
+### What I Do on a Daily Basis :thinking::
 - :man_student: Master of Business Analytics Candidate at Albers School of Business 
 - :man_office_worker: Ex. Business Intelligence Analyst @avalara and @moladin
 - :computer: Worked on  **_Wesley Project_** for [Social Impact Analytics Institute](https://www.siainstitute.org/) to reduce **School Violence** with Data Science!
 - 🌱 Currently grinding knowledge of Deep Learning applications through online [courses](https://www.coursera.org/instructor/andrewng) from THE master, [Andrew Ng](https://www.andrewng.org/)! :sunglasses:
 - 💬 Talk to me about Artificial Intelligence and its applications.
 - 📫 How to reach me: @joshuakhanzz@gmail.com
-- ⚡ Fun fact my fave emoji -> :3 (past facebook emoticon)
+- ⚡ Fun fact my fave emoji -> :3 (past Facebook emoticon)
 
 ---
 
